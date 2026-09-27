@@ -1,0 +1,6 @@
+{
+  "items": [
+    {"project": "uk.wikipedia", "article": "Test", "granularity": "monthly", "timestamp": "2026010100", "access": "all-access", "agent": "user", "views": 10},
+    {"project": "uk.wikipedia", "article": "Test", "granularity": "monthly", "timestamp": "2026020100", "access": "all-access", "agent": "user", "views": 12}
+  ]
+}

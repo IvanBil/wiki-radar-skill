@@ -1,0 +1,5 @@
+Noto Sans Regular and Noto Sans Bold
+Copyright 2022 The Noto Project Authors
+Licensed under the SIL Open Font License 1.1
+https://github.com/notofonts/latin-greek-cyrillic
+https://scripts.sil.org/OFL

@@ -1,0 +1,76 @@
+{
+  "topic": "дві вікі різного розміру",
+  "start": "2025010100",
+  "end": "2025123100",
+  "series": [
+    {
+      "lang": "pl",
+      "project": "pl.wikipedia.org",
+      "title": "Mała wiki",
+      "matched_via": "langlinks",
+      "items": [
+        {"timestamp": "2025010100", "views": 100},
+        {"timestamp": "2025020100", "views": 110},
+        {"timestamp": "2025030100", "views": 120},
+        {"timestamp": "2025040100", "views": 130},
+        {"timestamp": "2025050100", "views": 140},
+        {"timestamp": "2025060100", "views": 150},
+        {"timestamp": "2025070100", "views": 160},
+        {"timestamp": "2025080100", "views": 170},
+        {"timestamp": "2025090100", "views": 180},
+        {"timestamp": "2025100100", "views": 190},
+        {"timestamp": "2025110100", "views": 200},
+        {"timestamp": "2025120100", "views": 220}
+      ],
+      "aggregate": [
+        {"timestamp": "2025010100", "views": 10000000},
+        {"timestamp": "2025020100", "views": 10000000},
+        {"timestamp": "2025030100", "views": 10000000},
+        {"timestamp": "2025040100", "views": 10000000},
+        {"timestamp": "2025050100", "views": 10000000},
+        {"timestamp": "2025060100", "views": 10000000},
+        {"timestamp": "2025070100", "views": 10000000},
+        {"timestamp": "2025080100", "views": 10000000},
+        {"timestamp": "2025090100", "views": 10000000},
+        {"timestamp": "2025100100", "views": 10000000},
+        {"timestamp": "2025110100", "views": 10000000},
+        {"timestamp": "2025120100", "views": 10000000}
+      ]
+    },
+    {
+      "lang": "en",
+      "project": "en.wikipedia.org",
+      "title": "Large wiki",
+      "matched_via": "exact",
+      "items": [
+        {"timestamp": "2025010100", "views": 50000},
+        {"timestamp": "2025020100", "views": 50000},
+        {"timestamp": "2025030100", "views": 50000},
+        {"timestamp": "2025040100", "views": 50000},
+        {"timestamp": "2025050100", "views": 50000},
+        {"timestamp": "2025060100", "views": 50000},
+        {"timestamp": "2025070100", "views": 48000},
+        {"timestamp": "2025080100", "views": 48000},
+        {"timestamp": "2025090100", "views": 48000},
+        {"timestamp": "2025100100", "views": 48000},
+        {"timestamp": "2025110100", "views": 48000},
+        {"timestamp": "2025120100", "views": 48000}
+      ],
+      "aggregate": [
+        {"timestamp": "2025010100", "views": 1000000000},
+        {"timestamp": "2025020100", "views": 1000000000},
+        {"timestamp": "2025030100", "views": 1000000000},
+        {"timestamp": "2025040100", "views": 1000000000},
+        {"timestamp": "2025050100", "views": 1000000000},
+        {"timestamp": "2025060100", "views": 1000000000},
+        {"timestamp": "2025070100", "views": 1000000000},
+        {"timestamp": "2025080100", "views": 1000000000},
+        {"timestamp": "2025090100", "views": 1000000000},
+        {"timestamp": "2025100100", "views": 1000000000},
+        {"timestamp": "2025110100", "views": 1000000000},
+        {"timestamp": "2025120100", "views": 1000000000}
+      ]
+    }
+  ],
+  "missing": []
+}
